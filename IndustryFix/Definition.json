@@ -2,9 +2,10 @@
   "manifestVersion": 5,
   "id": "Voidheart.IndustryFix",
   "name": "Industry Fix",
-  "version": "2.0",
+  "version": "1.0",
   "requires": [
-    "Zamu.StrangeCustoms"
+    "Zamu.StrangeCustoms",
+      "notBefore": "1.6.24074.728"
   ],
   "mixintos": {
     "game-graph": "file(industryfix.json)"
