@@ -1,7 +1,7 @@
 {
   "manifestVersion": 5,
   "id": "Exp232.Industry-Edit",
-  "name": "Industry Fix",
+  "name": "Industry Edit",
   "version": "1.0",
   "requires": [
     "Zamu.StrangeCustoms",
