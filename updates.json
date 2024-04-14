@@ -1,18 +1,10 @@
 {
-  "Voidheart.IndustryFix": {
-    "version": "2.0",
+  "Exp232.Industry-Edit": {
+    "version": "1.0",
     "changelog": [
       {
-        "version": "2.0"
+        "version": "1.0"
         "desc": "-Added additional storage at Connelly Creek to help improve compatibility with MV's Logging Cars mod"
-      },
-      {
-        "version": "1.0.1",
-        "desc": "- Added update check"
-      },
-      {
-        "version": "1.0",
-        "desc": "- Appalachian Hardwoods R1 unload speed increased by 50% to be faster than the consumption rate \n- Locust Pin Co BR3 unload speed increased by 50% to be faster than the consumption rate"
       }
     ]
   }
