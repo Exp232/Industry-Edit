@@ -1,14 +1,5 @@
 {
    "areas":{
-      "dillsboro":{
-         "industries":{
-            "dillsboro-locust":{
-               "unloader":{
-                  "carTransferRate":300000.0
-               }
-            }
-         }
-      },
       "connelly":{
          "industries":{
             "connelly0":{
@@ -24,17 +15,6 @@
                   },
                   "p34":{
                      "maxStorage":2400000.0
-                  }
-               }
-            }
-         }
-      },
-      "bryson":{
-         "industries":{
-            "bryson-hardwoods":{
-               "components":{
-                  "r1":{
-                     "carTransferRate":450000
                   }
                }
             }
