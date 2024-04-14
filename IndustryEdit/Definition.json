@@ -8,7 +8,7 @@
       "notBefore": "1.6.24074.728"
   ],
   "mixintos": {
-    "game-graph": "file(industryEdit.json)"
+    "game-graph": "file(IndustryEdit.json)"
   },
   "updateUrl": "https://raw.githubusercontent.com/Exp232/Industry-Edit/main/updates.json"
 }
