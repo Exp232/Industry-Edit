@@ -9,5 +9,5 @@
   "mixintos": {
     "game-graph": "file(industryfix.json)"
   },
-  "updateUrl": "https://raw.githubusercontent.com/Voidheartd/IndustryFix/main/updates.json"
+  "updateUrl": "https://raw.githubusercontent.com/Exp232/Industry-Edit/main/updates.json"
 }
