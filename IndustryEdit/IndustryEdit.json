@@ -1,24 +1,46 @@
 {
-   "areas":{
-      "connelly":{
-         "industries":{
-            "connelly0":{
-               "components":{
-                  "l1":{
-                     "maxStorage":36.0
-                  },
-                  "l2":{
-                     "maxStorage":72.0
-                  },
-                  "l3":{
-                     "maxStorage":60.0
-                  },
-                  "p34":{
-                     "maxStorage":2400000.0
-                  }
-               }
+  "areas": {
+    "wesser": {
+      "industries": {
+        "wesser-nps": {
+          "components": {
+            "g1": {
+              "carTransferRate": 200000.0
             }
-         }
+          }
+        }
       }
-   }
+    },
+    "connelly": {
+      "industries": {
+        "connelly0": {
+          "components": {
+            "l1": {
+              "maxStorage": 36.0
+            },
+            "l2": {
+              "maxStorage": 72.0
+            },
+            "l3": {
+              "maxStorage": 60.0
+            },
+            "p34": {
+              "maxStorage": 2400000.0
+            }
+          }
+        }
+      }
+    },
+    "hewitt": {
+      "industries": {
+        "nant-talc": {
+          "components": {
+            "t2": {
+              "carTransferRate": 450000.0
+            }
+          }
+        }
+      }
+    }
+  }
 }
