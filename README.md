@@ -3,7 +3,7 @@
 # Description
 This mod builds upon IndustryFix by Voidheartd, adding additional fixes to new undustries and increasing the scope to include useful modifications when playing a modded game.
 
-Corrections for industry issues including:
+V1.1 includes the following changes:
 - Appalachian Hardwoods R1 unload speed increased by 50%
 - Locust Pin Co BR3 unload speed increased by 50%
 - Connelly Creek L1/2/3 storage increased to improve comaptibility with MV's Logging Cars mod
