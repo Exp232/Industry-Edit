@@ -1,5 +1,38 @@
 {
    "areas":{
+      "bryson":{
+         "industries":{
+            "bryson-hardwoods":{
+               "components":{
+                  "r1":{
+                     "carTransferRate":450000
+                  }
+               }
+            }
+         }
+      },
+      "dillsboro":{
+         "industries":{
+            "dillsboro-locust":{
+               "components":{
+                  "unloader":{
+                     "carTransferRate":300000
+                  }
+               }
+            }
+         }
+      },
+      "wesser":{
+         "industries":{
+            "wesser-nps":{
+               "components":{
+                  "g1":{
+                     "carTransferRate":200000.0
+                  }
+               }
+            }
+         }
+      },
       "connelly":{
          "industries":{
             "connelly0":{
@@ -15,6 +48,17 @@
                   },
                   "p34":{
                      "maxStorage":2400000.0
+                  }
+               }
+            }
+         }
+      },
+      "hewitt":{
+         "industries":{
+            "nant-talc":{
+               "components":{
+                  "t2":{
+                     "carTransferRate":450000.0
                   }
                }
             }
