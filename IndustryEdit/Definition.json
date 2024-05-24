@@ -2,10 +2,10 @@
   "manifestVersion": 5,
   "id": "Exp232.Industry-Edit",
   "name": "Industry Edit",
-  "version": "1.1",
+  "version": "1.2",
   "requires": [
     "Zamu.StrangeCustoms",
-      "notBefore": "1.6.24074.728"
+      "notBefore": "1.6.24142.2228"
   ],
   "mixintos": {
     "game-graph": "file(IndustryEdit.json)"
