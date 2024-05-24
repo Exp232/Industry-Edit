@@ -3,11 +3,12 @@
 # Description
 This mod builds upon IndustryFix by Voidheartd, adding additional fixes to new undustries and increasing the scope to include useful modifications when playing a modded game.
 
-V1.1 includes the following changes:
-- Appalachian Hardwoods R1 unload speed increased by 50%
-- Locust Pin Co BR3 unload speed increased by 50%
-- Connelly Creek L1/2/3 storage increased to improve comaptibility with MV's Logging Cars mod
+V1.2 includes the following changes:
+- Appalachian Hardwoods R1 mod deprecated (redundant in RR 2024.4.1)
+- Locust Pin Co BR3 mod deprecated (redundant in RR 2024.4.1)
+- Connelly Creek L1/2/3 storage increased to improve comaptibility with MVR's Logging Cars mod
 - Connelly Creek Pulpwood P3/P4 storage increased to 1,200 tons
+- Connelly Creek Pulpwood P1-4 Load rates increased
 - Increased Car Load rate at National Park Service by 100%
 - Increased Car Load rate at Nantahala Talc and Limestone T2 by 50%
 
@@ -22,3 +23,4 @@ V1.1 includes the following changes:
    * If you DO NOT have the Industry Edit folder in the Mods folder after completing the above steps, you didn't complete the steps successfully.
 #
 Special thanks to Voidheartd for original concept and code.
+MVR's Logging Cars Mod: https://www.nexusmods.com/railroader/mods/47
