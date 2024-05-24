@@ -8,8 +8,8 @@ V1.2 includes the following changes:
 - Appalachian Hardwoods R1 mod deprecated (redundant in RR 2024.4.1)
 - Locust Pin Co BR3 mod deprecated (redundant in RR 2024.4.1)
 - Connelly Creek L1/2/3 storage increased to improve comaptibility with MVR's Logging Cars mod
-- Connelly Creek Pulpwood P3/P4 storage increased to 1,200 tons
-- Connelly Creek Pulpwood P1-4 Load rates increased
+- Connelly Creek Pulpwood P1, 2, 3/4 storage increased to 200% max car storage; i.e. P1 can hold 175 tons of pulpwood using MVR 70t gondolas, therfore it can store 350 tons.
+- Connelly Creek Pulpwood P1, 2, 3/4 per car load rates increased to 150% of output capacity with 2, 3, and 4/4 cars respectively (correlating with using MVR 70t Pulpwood Gondola)
 - Increased Car Load rate at National Park Service by 100%
 - Increased Car Load rate at Nantahala Talc and Limestone T2 by 50%
 
