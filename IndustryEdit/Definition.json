@@ -3,6 +3,7 @@
   "id": "Exp232.Industry-Edit",
   "name": "Industry Edit",
   "version": "1.2",
+},
   "requires": [
     "Zamu.StrangeCustoms",
       "notBefore": "1.6.24142.2228"

@@ -48,6 +48,17 @@
                }
             }
          }
+      },
+      "hewitt":{
+         "industries":{
+            "nant-talc":{
+               "components":{
+                  "t2":{
+                     "carTransferRate":450000.0
+                  }
+               }
+            }
+         }
       }
    }
 }
