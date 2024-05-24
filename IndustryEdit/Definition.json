@@ -5,7 +5,7 @@
   "version": "1.2",
   "requires": [
     "Zamu.StrangeCustoms",
-      "notBefore": "1.6.24142.2228"
+      "notBefore":"1.6.24142.2228"
   ],
   "mixintos": {
     "game-graph": "file(IndustryEdit.json)"
