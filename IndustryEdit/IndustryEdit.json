@@ -32,18 +32,7 @@
                   },
                   "p34":{
                      "maxStorage":2400000.0,
-                     "carTransferRate": 300000.0
-                  }
-               }
-            }
-         }
-      },
-      "hewitt":{
-         "industries":{
-            "nant-talc":{
-               "components":{
-                  "t2":{
-                     "carTransferRate":450000.0
+                     "carTransferRate": 3000000.0
                   }
                }
             }
