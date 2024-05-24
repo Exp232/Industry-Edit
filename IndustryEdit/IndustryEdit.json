@@ -27,7 +27,7 @@
                   },
                   "p2":{
                      "maxStorage":1050000.0,
-                     "carTransferRate":250000.0
+                     "carTransferRate":375000.0
                   },
                   "l3":{
                      "maxStorage":60.0
