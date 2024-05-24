@@ -19,20 +19,20 @@
                      "maxStorage":36.0
                   },
                   "p1":{
-                     "carTransferRate":750000.0
+                     "carTransferRate":375000.0
                   },
                   "l2":{
                      "maxStorage":72.0
                   },
                   "p2":{
-                     "carTransferRate":750000.0
+                     "carTransferRate":250000.0
                   },
                   "l3":{
                      "maxStorage":60.0
                   },
                   "p34":{
                      "maxStorage":2400000.0,
-                     "carTransferRate": 3000000.0
+                     "carTransferRate": 375000.0
                   }
                }
             }
